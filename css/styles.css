@@ -621,6 +621,7 @@ h1,h2,h3{
 
 .block__heading {
   margin-top: 0;
+  margin-bottom: 4rem;
 }
 
 .block--dark {
